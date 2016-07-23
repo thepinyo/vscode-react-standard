@@ -1,7 +1,8 @@
-# Reactjs
-## VS Code Reactjs snippets
+This is a fork of [vscode-react](https://github.com/xabikos/vscode-react) following [JavaScript Standard Style](http://standardjs.com/).
+
+# VS Code React Standard Style snippets
 -------------------
-This extension contains code snippets for [Reactjs][react] and is based on the awesome [babel-sublime-snippets][babelsublime] package.
+This extension contains code snippets for [React][react] following the JavaScript Standard Style guidelines and is based on the awesome [babel-sublime-snippets][babelsublime] package.
 
 ## Installation
 
@@ -96,4 +97,4 @@ For example ```pta``` creates the ```PropTypes.array``` and ```ptar``` creates t
 
 [react]: https://facebook.github.io/react/
 [babelsublime]: https://github.com/babel/babel-sublime-snippets
-[javacript]: https://github.com/xabikos/vscode-javascript
+[javacript]: https://github.com/TimonVS/vscode-react-standard
