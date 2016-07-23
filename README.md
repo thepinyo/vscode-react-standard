@@ -1,8 +1,8 @@
 This is a fork of [vscode-react](https://github.com/xabikos/vscode-react) following [JavaScript Standard Style](http://standardjs.com/).
 
 # VS Code React Standard Style snippets
--------------------
-This extension contains code snippets for [React][react] following the JavaScript Standard Style guidelines and is based on the awesome [babel-sublime-snippets][babelsublime] package.
+
+This extension contains code snippets for [React][react] following the [JavaScript Standard Style](http://standardjs.com/) guidelines and is based on the awesome [babel-sublime-snippets][babelsublime] package.
 
 ## Installation
 
